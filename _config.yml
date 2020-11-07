@@ -1,0 +1,14 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Vidushi Gupta
+description:      'Trying to put my portfolio online :)'
+baseurl:          /
+
+# paginate:         5
