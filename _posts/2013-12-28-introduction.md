@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vidushi Gupta
+title: Trail post
 ---
 
 Trial post about hosting profile online.
