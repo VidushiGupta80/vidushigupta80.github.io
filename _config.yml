@@ -4,6 +4,8 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
+relative_links:
+  enabled: true
 
 # Setup
 title:            Vidushi Gupta
