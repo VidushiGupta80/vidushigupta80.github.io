@@ -4,6 +4,7 @@ title: About
 ---
 
 ## Education:
+
 <img src="https://raw.githubusercontent.com/VidushiGupta80/vidushigupta80.github.io/master/public/iit_ism.png" alt="IIT (ISM), Dhanbad" width="75" height="75"/>
 
 - <strong>Masters</strong> in Power Systems, Indian Institute of Technology (Indian School of Mines), Dhanbad [IIT (ISM), Dhanbad].
