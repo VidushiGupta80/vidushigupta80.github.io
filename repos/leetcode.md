@@ -1,7 +1,3 @@
----
-layout: page
-title: LeetCode
----
 # LeetCode solutions
 
 My LeetCode solution submissions. ([Profile Link](https://leetcode.com/guptavidushi/))
